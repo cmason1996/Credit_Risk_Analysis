@@ -17,13 +17,13 @@ Tools Used:
 
 #### Niave Random Oversampling
 
-INSERT PICTURE OF OVERSAMPLING HERE
+<img width="516" alt="niave_oversampling" src="https://user-images.githubusercontent.com/112291888/212794647-d4a0cad2-dfd9-4b34-a1d5-5da817dfc32a.png">
 
 With an average accuracy of 67.14%, a precision of .99, and a recall of .67; 
 
 #### SMOTE Oversampling
 
-INSERT PICTURE OF SMOTE HERE
+<img width="518" alt="SMOTE_oversampling" src="https://user-images.githubusercontent.com/112291888/212794659-7d247cc8-5eed-4592-bf05-e83245b9a993.png">
 
 With an average accuracy of 65.79%, a precision of .99, and a recall of .66; 
 
