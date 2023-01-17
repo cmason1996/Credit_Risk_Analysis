@@ -47,6 +47,8 @@ With an average accuracy of 53.49%, a precision of .99, and a recall of .53;
 
 ### Random Forest
 
+<a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb" target="_blank">Click here to view the Random Forest Code</a>
+
 INSERT FOREST HERE
 
 With an average accuracy of 90.76%, a precision of .99, and a recall of .91;
@@ -60,8 +62,6 @@ INSERT ADABOOST HERE
 With an average accuracy of 94.28%, a precision of .99, and a recall of .94; 
 
 * This is the most accurate of all of the different models we tried and is the model that we would recommend for further analysis of the data or to predict results to credit-lenders.
-
-<a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb" target="_blank">Click here to view the Random Forest Code</a>
 
 ## Summary
 
