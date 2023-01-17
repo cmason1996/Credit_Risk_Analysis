@@ -33,7 +33,7 @@ With an average accuracy of 65.79%, a precision of .99, and a recall of .66;
 
 #### Cluster Centroid Undersampling
 
-INSERT CLUSTER SAMPLING HERE
+<img width="519" alt="undersampling" src="https://user-images.githubusercontent.com/112291888/212794807-e6684f61-eb11-4fc7-a085-2ccce1bda6ec.png">
 
 With an average accuracy of 45.02%, a precision of .99, and a recall of .45;
 
@@ -41,7 +41,7 @@ With an average accuracy of 45.02%, a precision of .99, and a recall of .45;
 
 ### Combination Over and Undersampling
 
-INSERT SMOTEET HERE
+<img width="511" alt="combination" src="https://user-images.githubusercontent.com/112291888/212794790-1259c86e-0aac-4a38-9799-5e1f0daf50c7.png">
 
 With an average accuracy of 53.49%, a precision of .99, and a recall of .53; 
 
