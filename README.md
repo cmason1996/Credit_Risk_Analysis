@@ -49,7 +49,7 @@ With an average accuracy of 53.49%, a precision of .99, and a recall of .53;
 
 <a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb" target="_blank">Click here to view the Random Forest Code</a>
 
-INSERT FOREST HERE
+<img width="513" alt="random_forest" src="https://user-images.githubusercontent.com/112291888/212794953-cbae2dc0-279b-47f1-b852-879ebbd9d1d9.png">
 
 With an average accuracy of 90.76%, a precision of .99, and a recall of .91;
 
@@ -57,7 +57,7 @@ With an average accuracy of 90.76%, a precision of .99, and a recall of .91;
 
 ### Easy AdaBoost
 
-INSERT ADABOOST HERE
+<img width="517" alt="easy_adaboost" src="https://user-images.githubusercontent.com/112291888/212794962-4a02a424-87f4-4185-8d65-0423d47ff5ce.png">
 
 With an average accuracy of 94.28%, a precision of .99, and a recall of .94; 
 
