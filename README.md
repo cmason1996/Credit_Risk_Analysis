@@ -11,7 +11,7 @@ Tools Used:
 
 ## Results
 
-<a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb" target="_blank">Click here to view the code for Over and Undersampling</a>
+<a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/Code/credit_risk_resampling.ipynb" target="_blank">Click here to view the code for Over and Undersampling</a>
 
 ### Oversampling
 
@@ -47,7 +47,7 @@ With an average accuracy of 53.49%, a precision of .99, and a recall of .53;
 
 ### Random Forest
 
-<a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb" target="_blank">Click here to view the Random Forest Code</a>
+<a href="https://github.com/cmason1996/Credit_Risk_Analysis/blob/main/Code/credit_risk_ensemble.ipynb" target="_blank">Click here to view the Random Forest Code</a>
 
 <img width="513" alt="random_forest" src="https://user-images.githubusercontent.com/112291888/212794953-cbae2dc0-279b-47f1-b852-879ebbd9d1d9.png">
 
